@@ -24,7 +24,9 @@ Connect all devices using Copper Straight-Through cables.
 After connecting the devices, verify that all links turn green, indicating successful physical connectivity.
 
 Reference image NO 1
- 
+
+ <img width="941" height="500" alt="Screenshot 2026-10-12 193517" src="https://github.com/user-attachments/assets/4f9ebe58-c4a2-4641-9d97-8efa5f74ccfd" />
+
 
 ## Step 2: Open the PT-Router
 1.	Click on the PT-Router in the Cisco Packet Tracer workspace.
